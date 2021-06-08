@@ -2,10 +2,6 @@
 
 Propuesta sobre la arquitectura para sistema de gestión documental.
 
-## Integrantes
-
-- Felipe Duitama - 20112020005
-
 ## Definición de requerimientos (forma general)
 
 - Gestión de documentos: ingreso de documentos, cambio de estados, almacenamiento(archivar)
